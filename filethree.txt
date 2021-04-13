@@ -1,3 +1,4 @@
 aperture
 shutter speed
 iso (light sensitivity)
+exposure triangle

@@ -2,3 +2,4 @@ aperture
 shutter speed
 iso (light sensitivity)
 exposure triangle
+the main rule for right exposure metering - rule 16

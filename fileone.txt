@@ -1,2 +1,2 @@
 fileone one red
-fileone two red
+fileone two rednew branch line

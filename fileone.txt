@@ -2,8 +2,3 @@ fileone one red
 fileone two rednew 
 branch line update
 edit 2020
-<<<<<<< HEAD
-update2021
-=======
-кирилиця
->>>>>>> new_file_edit
